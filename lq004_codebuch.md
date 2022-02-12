@@ -1,4 +1,15 @@
-Codebuch																
+Codebuch Stand 2022-02, erstellt von Lina Quotschalla (lq004@hdm-stuttgart.de)
+
+
+Codebuch Inhalt
+
+Edges.csv (Edgelist)
+Nodes.csv (Nodelist)
+Codebuch.md (Codierung der Datensätze)
+
+Das Netzwerk ist ein gerichtetes two-mode Akteursnetzwerk.
+
+Umgang mit fehlgenden Werten Fehlende Werte werden nicht erfasst.
 																
 Edgelist:																
 - from (id),																
@@ -44,7 +55,7 @@ facebook (Anzahl follower)
 youtube (Anzahl Abonnenten)																
 Fehlende Werte z.B. in der Nodelist leerlassen																
 																
-Personen	
+Datenerhebung Personen	
 
 Franziska Brantner, Heidelberg (StS Wirtschaft) (Nebentätigkeit, Ausschüsse)
 Florian Toncar, Böblingen (StS Finanzen)
