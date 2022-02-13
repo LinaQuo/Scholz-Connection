@@ -25,6 +25,7 @@ Edgelist:
 
 id als Initialen Vorname Nachname erfassen, also bei Franziska Brantner z.B. “fb”. Für Organisationen eine sinnvolle Abkürzung wählen.	
 
+
 Codebuch Relationship:																
 
 1 = Achtung: Regierung umfasst auch Staatsekretäre und das Bundeskanzleramt, etc. hier sollte als Knoten das entsprechende Ministerium angegeben werden.																
@@ -39,9 +40,12 @@ Codebuch Relationship:
 
 6 = ausgeübte Berufstätigkeiten, falls vorhanden
 
-7 = Studien- bzw. (längere) Aufenthaltsort(e) in In- und Ausland																
-																
-Nodelist Kodierung entsprechend anpassen
+7 = Studien- bzw. (längere) Aufenthaltsort(e) in In- und Ausland
+
+
+	
+Nodelist:
+
 
 id (identisch mit edgelist, aber hier nur einmalige Nennung),
 
@@ -78,24 +82,26 @@ youtube (Anzahl Abonnenten)
 Fehlende Werte z.B. in der Nodelist leerlassen
 
 
-Datenerhebung Personen	
 
-Franziska Brantner, Heidelberg (StS Wirtschaft) (Nebentätigkeit, Ausschüsse)
+Datenerhebung Personen:
 
-Florian Toncar, Böblingen (StS Finanzen)
 
-Rita Schwarzelühr-Sütter, Waldshut (StS Inneres)
+- Franziska Brantner, Heidelberg (StS Wirtschaft) (Nebentätigkeit, Ausschüsse)
 
-Tobias Lindner, Karlsruhe (SM AA)
+- Florian Toncar, Böblingen (StS Finanzen)
 
-Benjamin Strasser, Ravensburg (StS Justiz)
+- Rita Schwarzelühr-Sütter, Waldshut (StS Inneres)
 
-Cem Oezdemir, Stuttgart (BM Ernährung)
+- Tobias Lindner, Karlsruhe (SM AA)
 
-Michael A. Theurer, Tübingen (StS Verkehr)
+- Benjamin Strasser, Ravensburg (StS Justiz)
 
-Chris Kühn, Tübingen (StS Umwelt)
+- Cem Oezdemir, Stuttgart (BM Ernährung)
 
-Jens Brandenburg, Rhein-Neckar (StS Bildung)
+- Michael A. Theurer, Tübingen (StS Verkehr)
+
+- Chris Kühn, Tübingen (StS Umwelt)
+
+- Jens Brandenburg, Rhein-Neckar (StS Bildung)
 														
 																
